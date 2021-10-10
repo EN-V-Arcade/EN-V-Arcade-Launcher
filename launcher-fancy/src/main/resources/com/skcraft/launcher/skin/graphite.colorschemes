@@ -11,13 +11,13 @@ Graphite Enabled {
 
 Graphite Border {
     kind=Dark
-    colorUltraLight=#616161
-    colorExtraLight=#5A5A5A
-    colorLight=#4F4F4F
-    colorMid=#414141
-    colorDark=#323232
-    colorUltraDark=#2B2B2B
-    colorForeground=#EDEDED
+    colorUltraLight=#FF495C
+    colorExtraLight=#3562D3
+    colorLight=#3562D3
+    colorMid=#2C58C9
+    colorDark=#2952BA
+    colorUltraDark=#264CAC
+    colorForeground=#FF495C
 }
 
 Graphite Background {
