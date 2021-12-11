@@ -28,7 +28,6 @@ public class Configuration {
     private String jvmArgs;
     private int minMemory = 1024;
     private int maxMemory = 0; // Updated in Launcher
-    private int permGen = 256;
     private int windowWidth = 854;
     private int windowHeight = 480;
     private boolean proxyEnabled = false;
